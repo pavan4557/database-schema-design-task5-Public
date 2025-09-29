@@ -1,5 +1,5 @@
-#📚 Task 5 – SQL Joins (Inner, Left, Right, Full)
-##🎯 Objective
+📚 Task 5 – SQL Joins (Inner, Left, Right, Full)
+🎯 Objective
 
 The objective of this task is to practice using SQL joins to combine data from multiple tables. After this task, you will be able to:
 
