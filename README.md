@@ -1,5 +1,5 @@
-📚 Task 5 – SQL Joins (Inner, Left, Right, Full)
-🎯 Objective
+#📚 Task 5 – SQL Joins (Inner, Left, Right, Full)
+##🎯 Objective
 
 The objective of this task is to practice using SQL joins to combine data from multiple tables. After this task, you will be able to:
 
@@ -15,7 +15,7 @@ DB Browser for SQLite
 
 MySQL Workbench
 
-🧠 Key SQL Concepts
+##🧠 Key SQL Concepts
 
 INNER JOIN
 🔹 Returns only rows with matching values in both tables.
@@ -38,7 +38,7 @@ NATURAL JOIN
 SELF JOIN
 🔹 A table joined to itself, useful for hierarchical or comparison queries.
 
-💡 Examples & Outputs
+##💡 Examples & Outputs
 
 INNER JOIN: Lists only customers who have orders.
 
@@ -52,7 +52,7 @@ CROSS JOIN: Produces all possible pairs of customers and orders.
 
 SELF JOIN: Finds pairs of customers in the same city.
 
-❓ Interview Q&A
+##❓ Interview Q&A
 
 Difference between INNER and LEFT JOIN?
 🔹 INNER JOIN returns only matching rows; LEFT JOIN returns all left table rows even without a match.
